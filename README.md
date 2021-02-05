@@ -6,6 +6,7 @@
 O clone do Netflix responsivo utilizando, foi desenvolvido no BootCamp Decola Dev Avanade 2021 na plataforma [Digital Innovation One](//https://web.digitalinnovation.one/ "Digital Innovation One") 
 
 ![](https://raw.githubusercontent.com/Lu1zEduard0/DIO-Clone-Netflix/main/img-github/full-screen.PNG)
+![](https://raw.githubusercontent.com/Lu1zEduard0/DIO-Clone-Netflix/main/img-github/responsive.PNG)
 * Futuras mudanças: 
 - [ ]  Incorporar video responsivo
 - [ ]  Texto alternativo a imagem 
