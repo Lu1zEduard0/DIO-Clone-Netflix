@@ -1,0 +1,77 @@
+@media screen and (max-width: 700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao {
+        margin-top: 5px;
+        width: 100px;
+        height: 60px;
+    }
+    header .logo{
+        color: var(--vermelho);
+        font-family: 'Arial Black';
+        font-size: 40px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media screen and (max-width: 1170px) {
+  
+
+    .botao {
+        margin-top: 5px;
+        width: 160px;
+        height: 50px;
+        
+        padding: 10px;
+        margin-right: 10px;
+        font-size: 10px;
+        
+    }
+    .botoes{
+        
+    }
+}
+
+@media screen and (max-width: 700px) {
+
+    .titulo{
+        font-size: 30px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    .filme-principal .sinopse{
+        margin-bottom: 20px;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .filme-principal .sinopse{
+        margin-bottom: 15px;
+        margin-top: 10px;
+    }
+
+    
+}
+
+@media screen and (max-width: 540px) {
+
+    .titulo{
+        font-size: 25px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    .filme-principal .sinopse{
+        margin-bottom: 20px;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    
+    .filme-principal .container{
+        width: 50%;
+    }
+    
+}
